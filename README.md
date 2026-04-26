@@ -1,6 +1,6 @@
-# SaveBite Frontend 🍽️
+# Too_G00d_To_Go_India Frontend 🍽️
 
-SaveBite is a React-based frontend prototype for a surplus food marketplace that helps restaurants, bakeries, cafes, and food businesses sell extra food at discounted prices or donate it instead of wasting it.
+Too_G00d_To_Go_India is a React-based frontend prototype for a surplus food marketplace that helps restaurants, bakeries, cafes, and food businesses sell extra food at discounted prices or donate it instead of wasting it.
 
 The platform is designed for students, budget-conscious users, and local communities who want affordable food while reducing food waste.
 
@@ -17,7 +17,7 @@ At the same time:
 - NGOs need food support  
 - Small businesses lose money on leftovers  
 
-SaveBite connects these problems into one solution.
+Too_G00d_To_Go_India connects these problems into one solution.
 
 ---
 
@@ -52,7 +52,7 @@ Users can:
 ## 📂 Project Structure
 
 ```text
-savebite-frontend/
+Too_G00d_To_Go_India-frontend/
 └── src/
     ├── assets/
     │   ├── images/
